@@ -2,6 +2,7 @@
 
 <!--
 **GurdipS5/GurdipS5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white}" />
 
 Here are some ideas to get you started:
 

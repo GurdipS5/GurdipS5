@@ -1,0 +1,1 @@
+![OpenAI Logo](https://openai.com/assets/images/openai-logo.png)

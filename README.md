@@ -1,3 +1,6 @@
+
+![GitHub Actions](https://github.com/GurdipS5/Gurdips5/actions/workflows/readme-scribe.yml/badge.svg)
+
 ![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
 ## 💻 Technologies & Tools
@@ -68,7 +71,7 @@ I am a DevOps Lead with experience in Azure, AWS and Kubernetes, as well as a C#
 - [codersguild/System-Design](https://github.com/codersguild/System-Design) - It&#39;s just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability &amp; reliability. 👨‍💻 Interview Prep. 👨‍💻 - 1906 stars
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews - 31158 stars
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet - 15450 stars
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. - 287561 stars
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. - 287567 stars
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. - 61802 stars
 
 #### 👥 Latest follower
@@ -94,11 +97,6 @@ I am a DevOps Lead with experience in Azure, AWS and Kubernetes, as well as a C#
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/b9e864f3-49af-4366-b411-12d903958fe8 "AWS Certified Solutions Architect – Associate")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/e7a6fa6e-5d4b-47f4-b624-86124f70fe52 "CKAD: Certified Kubernetes Application Developer")
-[![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/9d3a64c5-f500-4dc8-b603-6cc4d2a3a87e "HashiCorp Certified: Terraform Associate (002)")
-[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png)](http://www.credly.com/badges/d9ac96de-457d-4c05-bd62-72e8544fa965 "GitOps Fundamentals")
-[![LFC112: Creating Effective Documentation for Developers](https://images.credly.com/size/110x110/images/4107367a-9cfe-4787-9d42-efcdc87f6a8b/image.png)](http://www.credly.com/badges/c6b8a148-85d6-4f31-987a-9992f8e78cc2 "LFC112: Creating Effective Documentation for Developers")
 <!--END_SECTION:badges-->
 
 

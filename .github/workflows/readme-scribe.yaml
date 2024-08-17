@@ -43,9 +43,3 @@ jobs:
           CREDLY_SORT: POPULAR
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }
-
-
-
-=======
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
->>>>>>> 28c1fb705b9b57c3f3be9bc9fc898a2fd6250194

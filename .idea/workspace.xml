@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ee6337c-354b-4c5e-9219-359e89ae5948" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/readme-scribe.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/readme-scribe.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/README.md.tpl" beforeDir="false" afterPath="$PROJECT_DIR$/templates/README.md.tpl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <workItem from="1720632396505" duration="10375000" />
       <workItem from="1720733120207" duration="529000" />
       <workItem from="1723685553760" duration="2787000" />
-      <workItem from="1723857338747" duration="1003000" />
+      <workItem from="1723857338747" duration="1221000" />
     </task>
     <servers />
   </component>

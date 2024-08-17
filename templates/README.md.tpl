@@ -1,5 +1,5 @@
 
-![GitHub Actions](https://github.com/GurdipS5/Gurdips5/actions/workflows/readme-scribe.yml/badge.svg)
+![example workflow](https://github.com/gurdips5/gurdips5/actions/workflows/readme-scribe.yml/badge.svg)
 
 ![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 

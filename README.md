@@ -1,5 +1,5 @@
 
-![GitHub Actions](https://github.com/GurdipS5/Gurdips5/actions/workflows/readme-scribe.yml/badge.svg)
+![example workflow](https://github.com/gurdips5/gurdips5/actions/workflows/readme-scribe.yml/badge.svg)
 
 ![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
@@ -67,7 +67,7 @@ I am a DevOps Lead with experience in Azure, AWS and Kubernetes, as well as a C#
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) -  :cyclone: Clean Architecture with .NET6, C#10 and React&#43;Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks - 3952 stars
 - [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview - 17690 stars
 - [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering - 9906 stars
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about - 81189 stars
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about - 81190 stars
 - [codersguild/System-Design](https://github.com/codersguild/System-Design) - It&#39;s just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability &amp; reliability. 👨‍💻 Interview Prep. 👨‍💻 - 1906 stars
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews - 31158 stars
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet - 15450 stars

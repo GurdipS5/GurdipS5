@@ -1,3 +1,6 @@
+
+![GitHub Actions](https://github.com/GurdipS5/Gurdips5/actions/workflows/readme-scribe.yml/badge.svg)
+
 ![hello](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
 ## 💻 Technologies & Tools
@@ -68,7 +71,7 @@ I am a DevOps Lead with experience in Azure, AWS and Kubernetes, as well as a C#
 - [codersguild/System-Design](https://github.com/codersguild/System-Design) - It&#39;s just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability &amp; reliability. 👨‍💻 Interview Prep. 👨‍💻 - 1906 stars
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews - 31158 stars
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet - 15450 stars
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. - 287561 stars
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. - 287567 stars
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. - 61802 stars
 
 #### 👥 Latest follower

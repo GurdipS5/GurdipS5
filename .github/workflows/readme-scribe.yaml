@@ -19,7 +19,7 @@ jobs:
           template: templates/README.md.tpl
           writeTo: README.md
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GIT_TOKEN }}
       - name: replace placeholder for badge tag
         uses: jacobtomlinson/gha-find-replace@v3
         with:
@@ -35,5 +35,14 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+      - uses: pemtajo/badge-readme@2.4.0
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "Update badges from credly"
+          CREDLY_USER: gurdip-sira
+          CREDLY_SORT: POPULAR
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }
+
+
+

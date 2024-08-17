@@ -6,7 +6,7 @@ on:
     - cron: '0 0 */1 * *'
   push:
     branches:
-      - 'main'
+      - 'master'
 
 jobs:
   readme-scribe:
@@ -19,7 +19,7 @@ jobs:
           template: templates/README.md.tpl
           writeTo: README.md
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GIT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
       - name: replace placeholder for badge tag
         uses: jacobtomlinson/gha-find-replace@v3
         with:
@@ -31,7 +31,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@8621497c8c39c72f3e2a999a26b4ca1b5058a842
         with:
           commit_message: 'Update generated README'
-          branch: main
+          branch: master
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
@@ -46,3 +46,6 @@ jobs:
 
 
 
+=======
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>>>>>>> 28c1fb705b9b57c3f3be9bc9fc898a2fd6250194

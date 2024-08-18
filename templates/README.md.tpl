@@ -1,7 +1,6 @@
 
 ![example workflow](https://github.com/gurdips5/gurdips5/actions/workflows/readme-scribe.yaml/badge.svg)
 
-
 ## 💻 Technologies & Tools
 
 ![GitHub last commit](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)

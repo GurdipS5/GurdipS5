@@ -95,6 +95,13 @@ I am a DevOps Lead with experience in Azure, AWS and Kubernetes, as well as a C#
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/b9e864f3-49af-4366-b411-12d903958fe8 "AWS Certified Solutions Architect – Associate")
+[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)](http://www.credly.com/badges/e7a6fa6e-5d4b-47f4-b624-86124f70fe52 "CKAD: Certified Kubernetes Application Developer")
+[![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/9d3a64c5-f500-4dc8-b603-6cc4d2a3a87e "HashiCorp Certified: Terraform Associate (002)")
+[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png)](http://www.credly.com/badges/d9ac96de-457d-4c05-bd62-72e8544fa965 "GitOps Fundamentals")
+[![GitOps at Scale](https://images.credly.com/size/110x110/images/f9198c28-7232-4c52-b1dc-12dab1c465f0/image.png)](http://www.credly.com/badges/ef4a5062-05df-4b10-bab9-e08ab6e333fa "GitOps at Scale")
+[![LFC112: Creating Effective Documentation for Developers](https://images.credly.com/size/110x110/images/4107367a-9cfe-4787-9d42-efcdc87f6a8b/image.png)](http://www.credly.com/badges/c6b8a148-85d6-4f31-987a-9992f8e78cc2 "LFC112: Creating Effective Documentation for Developers")
+[![LFS182: Securing Your Software Supply Chain with Sigstore](https://images.credly.com/size/110x110/images/c0b90428-aaf4-47d0-be5e-48d45a1f36e5/image.png)](http://www.credly.com/badges/b6950d1a-692b-44b7-9e18-ed5a47089e94 "LFS182: Securing Your Software Supply Chain with Sigstore")
 <!--END_SECTION:badges-->
 
 

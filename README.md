@@ -64,13 +64,13 @@ I am a DevOps Lead with experience in Azure, AWS and Kubernetes, as well as a C#
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects) - 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples - 705 stars
 - [ivanpaulovich/clean-architecture-manga](https://github.com/ivanpaulovich/clean-architecture-manga) -  :cyclone: Clean Architecture with .NET6, C#10 and React&#43;Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks - 3997 stars
 - [Olshansk/interview](https://github.com/Olshansk/interview) - Everything you need to prepare for your technical interview - 17781 stars
-- [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering - 9929 stars
-- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about - 83082 stars
+- [veeral-patel/how-to-secure-anything](https://github.com/veeral-patel/how-to-secure-anything) - How to systematically secure anything: a repository about security engineering - 9931 stars
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about - 83104 stars
 - [codersguild/System-Design](https://github.com/codersguild/System-Design) - It&#39;s just fascinating. How is modern software designed? 🤔 Some design-level considerations for scalability, maintainability eventual consistency, availability &amp; reliability. 👨‍💻 Interview Prep. 👨‍💻 - 1961 stars
-- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews - 32286 stars
-- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet - 15846 stars
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. - 294502 stars
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. - 63748 stars
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews - 32310 stars
+- [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet - 15853 stars
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. - 294587 stars
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. - 63777 stars
 
 #### 👥 Latest follower
 
@@ -94,21 +94,6 @@ I am a DevOps Lead with experience in Azure, AWS and Kubernetes, as well as a C#
 ## 🎓 Certificates & Trainings
 
 <!--START_SECTION:badges-->
-[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/b9e864f3-49af-4366-b411-12d903958fe8 "AWS Certified Solutions Architect – Associate")
-[![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob)](http://www.credly.com/badges/e7a6fa6e-5d4b-47f4-b624-86124f70fe52 "CKAD: Certified Kubernetes Application Developer")
-[![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/9d3a64c5-f500-4dc8-b603-6cc4d2a3a87e "HashiCorp Certified: Terraform Associate (002)")
-[![API Security Fundamentals](https://images.credly.com/size/110x110/images/4f17161c-0357-416f-8507-04f4517b1c2f/image.png)](http://www.credly.com/badges/5f904678-779e-4d28-824e-dd4de0980edf "API Security Fundamentals")
-[![GitOps Fundamentals](https://images.credly.com/size/110x110/images/45d4a763-2533-46c2-b9e9-aa91e2e608fa/image.png)](http://www.credly.com/badges/d9ac96de-457d-4c05-bd62-72e8544fa965 "GitOps Fundamentals")
-[![API Security for PCI Compliance](https://images.credly.com/size/110x110/images/a178c95b-2f9d-48b2-a27e-1c1357943dc3/image.png)](http://www.credly.com/badges/dd8571d5-515d-44a5-ba8f-6f6c1520bc96 "API Security for PCI Compliance")
-[![GitOps at Scale](https://images.credly.com/size/110x110/images/f9198c28-7232-4c52-b1dc-12dab1c465f0/image.png)](http://www.credly.com/badges/ef4a5062-05df-4b10-bab9-e08ab6e333fa "GitOps at Scale")
-[![Securing API Servers](https://images.credly.com/size/110x110/images/71296528-e07b-44af-b5cd-7723599793cf/image.png)](http://www.credly.com/badges/f0c0a740-09ca-4909-a44d-e0692468d4f7 "Securing API Servers")
-[![API Authentication](https://images.credly.com/size/110x110/images/c8d189b6-bbf0-43e8-b047-02e81f1cdb0f/image.png)](http://www.credly.com/badges/438e8e08-33a8-4778-b403-0682e73478ad "API Authentication")
-[![LFC112: Creating Effective Documentation for Developers](https://images.credly.com/size/110x110/images/62081479-8c0a-4db6-8cfa-3cfbd8b5b7e6/blob)](http://www.credly.com/badges/c6b8a148-85d6-4f31-987a-9992f8e78cc2 "LFC112: Creating Effective Documentation for Developers")
-[![LFS145: Introduction to Protocol Buffers](https://images.credly.com/size/110x110/images/bd4f7858-39da-4504-b0a0-e9da488c260f/blob)](http://www.credly.com/badges/8d50a64a-0d7e-4b83-8be9-261cb3522e73 "LFS145: Introduction to Protocol Buffers")
-[![LFS183: Introduction to Zero Trust](https://images.credly.com/size/110x110/images/030d09ff-a748-4dad-a76f-da3fc4d2c25b/blob)](http://www.credly.com/badges/8628d4ca-c4a8-4778-b9bf-555f9965e88f "LFS183: Introduction to Zero Trust")
-[![LFEL1014: Scaling Cloud Native Applications with KEDA](https://images.credly.com/size/110x110/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob)](http://www.credly.com/badges/5dbb0ac8-d1fa-412f-ad8b-e5f31cf9f32d "LFEL1014: Scaling Cloud Native Applications with KEDA")
-[![LFEL1005: Security Self-Assessments for Open Source Projects](https://images.credly.com/size/110x110/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob)](http://www.credly.com/badges/22997c8f-ee7c-4236-a57f-3733af4aef88 "LFEL1005: Security Self-Assessments for Open Source Projects")
-[![LFS182: Securing Your Software Supply Chain with Sigstore](https://images.credly.com/size/110x110/images/c5f5deb2-1b83-43eb-ae9c-f984928b4e39/blob)](http://www.credly.com/badges/b6950d1a-692b-44b7-9e18-ed5a47089e94 "LFS182: Securing Your Software Supply Chain with Sigstore")
 <!--END_SECTION:badges-->
 
 

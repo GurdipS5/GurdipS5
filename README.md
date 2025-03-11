@@ -125,8 +125,8 @@ I am a DevOps Lead with experience in Azure, AWS and Kubernetes, as well as a C#
 [![LFEL1010: XSS Exploits and Defenses](https://images.credly.com/size/110x110/images/4bed41e1-eab6-48e1-bc8f-00a44d331311/image.png)](http://www.credly.com/badges/3db815b8-3783-4d07-ba5e-7e01937b3858 "LFEL1010: XSS Exploits and Defenses")
 [![LFD133: Introduction to WebAssembly](https://images.credly.com/size/110x110/images/c8c237d0-9abf-4752-840b-4a0801753975/blob)](http://www.credly.com/badges/75352840-dcff-4d89-8506-c0daea4e691e "LFD133: Introduction to WebAssembly")
 [![LFS182: Securing Your Software Supply Chain with Sigstore](https://images.credly.com/size/110x110/images/c5f5deb2-1b83-43eb-ae9c-f984928b4e39/blob)](http://www.credly.com/badges/b6950d1a-692b-44b7-9e18-ed5a47089e94 "LFS182: Securing Your Software Supply Chain with Sigstore")
-[![LFS178: Getting Started with Self-Sovereign Identity](https://images.credly.com/size/110x110/images/3559f4ef-84b8-42be-8493-ba5ecc519288/blob)](http://www.credly.com/badges/ba842ef2-6890-4742-974f-a644e38aa8d2 "LFS178: Getting Started with Self-Sovereign Identity")
 [![APIsec University Ambassador](https://images.credly.com/size/110x110/images/e70932a7-c54c-464e-9a79-c7506546fe67/blob)](http://www.credly.com/badges/13ab8d27-2581-4e95-b258-7aa3cf40b458 "APIsec University Ambassador")
+[![LFS178: Getting Started with Self-Sovereign Identity](https://images.credly.com/size/110x110/images/3559f4ef-84b8-42be-8493-ba5ecc519288/blob)](http://www.credly.com/badges/ba842ef2-6890-4742-974f-a644e38aa8d2 "LFS178: Getting Started with Self-Sovereign Identity")
 [![LFD134: WebAssembly Components - From Cloud to Edge](https://images.credly.com/size/110x110/images/da88c4ee-7962-42f9-bcdc-4485e509a629/blob)](http://www.credly.com/badges/188cb3fd-ae1e-48a7-96c4-93e46dbf8c2b "LFD134: WebAssembly Components - From Cloud to Edge")
 <!--END_SECTION:badges-->
 
